@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    {
+    "id": "1and3011",
+    "imageURL":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0NjI4MDY0N15BMl5BanBnXkFtZTgwOTExOTIwMjE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+    "title": "Nagi lunch",
+    "summary": "After developing an addiction to the substance he uses to kill bugs, an exterminator accidentally kills his wife, and becomes involved in a secret government plot being orchestrated by giant bugs in a port town in North Africa.",
+    "rating": "7.1"
+    },
+
+    {
+    "id": "2and3012",
+    "imageURL":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0NjI4MDY0N15BMl5BanBnXkFtZTgwOTExOTIwMjE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+    "title": "Get out",
+    "summary": "It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.",
+    "rating": "7.7"
+    },
+        {
+    "id": "2and3012",
+    "imageURL":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0NjI4MDY0N15BMl5BanBnXkFtZTgwOTExOTIwMjE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+    "title": "Batmab",
+    "summary": "asdasdasdican to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.",
+    "rating": "2.7"
+    }
+  ]
+}
